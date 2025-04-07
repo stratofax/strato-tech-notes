@@ -1,2 +1,5 @@
-# strato-tech-notes
-Tech notes from Stratofax
+# Stratofax's Tech Notes
+
+Tech notes from Stratofax, about my repositories and other technical projects.
+
+
